@@ -119,8 +119,9 @@ public class Main {
         }
         rightShiftArray[1] = buffer;
         System.out.println(rightShiftArray[0]);
-
+        System.out.println("Спасибо");
     }
+
 }
 
 
